@@ -428,3 +428,12 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+/* photo */
+
+#profile_photo {
+  margin-left: auto;
+  margin-right: auto;
+  max-height: 250px;  
+  border-radius: 50%;
+}
