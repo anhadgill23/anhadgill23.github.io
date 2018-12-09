@@ -15,5 +15,5 @@ title: About
   I am now working as a junior software developer at <a href="https://www.frogplum.com/">Frogplum Solutions</a> - a startup hoping to do big things. Particularly, I am in charge of one of their projects, focussing on performance on the back-end development and API design. We are building an online calculator for people who wish to immigrate to Canada to assess their eligibility, suggest suitable programs and connect them to lawyers, a project projected to help build remote cities in Canada (that counts as big).
   <br /><br />
 
-  When I am not coding, I spend my time drinking copious amounts of tea or getting bruised from my amateur skateboarding drills.
+  When I am not coding, I spend my time drinking copious amounts of coffee or getting bruised from my amateur skateboarding drills.
 </p>
